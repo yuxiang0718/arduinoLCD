@@ -3,7 +3,7 @@
 dht DHT;   
 
 String a;
-String Sch_no = "555";
+String Sch_no = "249";
 
 void setup(){  
   Serial.begin(9600);   
